@@ -6,10 +6,10 @@ Aqui vou documentando os exercícios, projetos e conceitos que vou explorando à
 ---
 
 ## 📂 Estrutura do Repositório
-notebooks/ → Jupyter Notebooks com os exercícios e análises
-datasets/ → Conjuntos de dados usados
-reports/ → Relatórios ou resumos das análises
-README.md → Este ficheiro
+- notebooks/ → Jupyter Notebooks com os exercícios e análises
+- datasets/ → Conjuntos de dados usados
+- reports/ → Relatórios ou resumos das análises
+- README.md → Este ficheiro
 
 ---
 
